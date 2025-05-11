@@ -1,0 +1,1 @@
+C:\Users\Hoang\Downloads\BasicGroceryStore-master\BasicGroceryStore-master\BasicGroceryStore\obj\Debug\BasicGroceryStore.csproj.AssemblyReference.cache
